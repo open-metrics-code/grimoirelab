@@ -1,0 +1,16 @@
+{
+  "Github-Paddle": {
+    "git": [
+      "https://github.com/PaddlePaddle/Paddle.git"
+    ],
+    "github:issue": [
+      "https://github.com/PaddlePaddle/Paddle"
+    ],
+    "github:pull": [
+      "https://github.com/PaddlePaddle/Paddle"
+    ],
+    "github:repo": [
+      "https://github.com/PaddlePaddle/Paddle"
+    ]
+  }
+}

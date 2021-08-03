@@ -1,0 +1,16 @@
+{
+  "gitee-mindspore": {
+    "git": [
+      "https://gitee.com/mindspore/mindspore.git"
+    ],
+    "gitee": [
+      "https://gitee.com/mindspore/mindspore"
+    ],
+    "gitee:pull": [
+      "https://gitee.com/mindspore/mindspore"
+    ],
+    "gitee:repo": [
+      "https://gitee.com/mindspore/mindspore"
+    ]
+  }
+}

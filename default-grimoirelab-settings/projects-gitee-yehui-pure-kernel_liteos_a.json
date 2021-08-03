@@ -1,0 +1,16 @@
+{
+  "gitee-openharmony-kernel_liteos_a": {
+    "git": [
+      "https://gitee.com/openharmony/kernel_liteos_a.git"
+    ],
+    "gitee": [
+      "https://gitee.com/openharmony/kernel_liteos_a"
+    ],
+    "gitee:pull": [
+      "https://gitee.com/openharmony/kernel_liteos_a"
+    ],
+    "gitee:repo": [
+      "https://gitee.com/openharmony/kernel_liteos_a"
+    ]
+  }
+}

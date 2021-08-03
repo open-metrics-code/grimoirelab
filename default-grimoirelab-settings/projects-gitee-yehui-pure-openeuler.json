@@ -1,0 +1,55 @@
+{
+  "gitee-openeuler-iSulad": {
+    "git": [
+      "https://gitee.com/openeuler/iSulad.git"
+    ],
+    "gitee": [
+      "https://gitee.com/openeuler/iSulad"
+    ],
+    "gitee:pull": [
+      "https://gitee.com/openeuler/iSulad"
+    ],
+    "gitee:repo": [
+      "https://gitee.com/openeuler/iSulad"
+    ]
+  },
+  "gitee-openeuler-A-Tune": {
+    "git": [
+      "https://gitee.com/openeuler/A-Tune.git"
+    ],
+    "gitee": [
+      "https://gitee.com/openeuler/A-Tune"
+    ],
+    "gitee:pull": [
+      "https://gitee.com/openeuler/A-Tune"
+    ],
+    "gitee:repo": [
+      "https://gitee.com/openeuler/A-Tune"
+    ]
+  },
+  "gitee-openeuler-stratovirt": {
+    "git": [
+      "https://gitee.com/openeuler/stratovirt.git"
+    ],
+    "gitee": [
+      "https://gitee.com/openeuler/stratovirt"
+    ],
+    "gitee:pull": [
+      "https://gitee.com/openeuler/stratovirt"
+    ],
+    "gitee:repo": [
+      "https://gitee.com/openeuler/stratovirt"
+    ]
+  },
+  "gitee-openeuler-kernel": {
+    "gitee": [
+      "https://gitee.com/openeuler/kernel"
+    ],
+    "gitee:pull": [
+      "https://gitee.com/openeuler/kernel"
+    ],
+    "gitee:repo": [
+      "https://gitee.com/openeuler/kernel"
+    ]
+  }
+}

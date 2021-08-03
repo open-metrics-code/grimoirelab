@@ -1,0 +1,16 @@
+{
+  "gitee-openGauss": {
+    "git": [
+      "https://gitee.com/opengauss/openGauss-server.git"
+    ],
+    "gitee": [
+      "https://gitee.com/opengauss/openGauss-server"
+    ],
+    "gitee:pull": [
+      "https://gitee.com/opengauss/openGauss-server"
+    ],
+    "gitee:repo": [
+      "https://gitee.com/opengauss/openGauss-server"
+    ]
+  }
+}
