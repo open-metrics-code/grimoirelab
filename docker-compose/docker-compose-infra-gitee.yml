@@ -1,0 +1,34 @@
+version: '2.2'
+
+services:
+    mariadb:
+      image: mariadb:10.0
+      expose:
+        - "3306"
+      ports:
+        - "3306:3306"
+      environment:
+        - MYSQL_ROOT_PASSWORD=root
+        - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+        - MYSQL_DATABASE=demo_sh
+
+    elasticsearch:
+      image: docker.elastic.co/elasticsearch/elasticsearch-oss:6.8.6
+      command: elasticsearch -Enetwork.bind_host=0.0.0.0 -Ehttp.max_content_length=2000mb
+      ports:
+        - 9200:9200
+      environment:
+        - ES_JAVA_OPTS=-Xms4g -Xmx4g
+        - ANONYMOUS_USER=true
+
+    kibiter:
+      restart: on-failure:5
+      image: bitergia/kibiter:community-v6.8.6-3
+      environment:
+        - PROJECT_NAME=Demo
+        - NODE_OPTIONS=--max-old-space-size=1000
+        - ELASTICSEARCH_URL=http://elasticsearch:9200
+      links:
+        - elasticsearch
+      ports:
+        - 5601:5601
