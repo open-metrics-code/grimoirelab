@@ -1,0 +1,29 @@
+version: '2.2'
+
+services:
+    mariadb:
+      image: mariadb:10.0
+      expose:
+        - "3306"
+      ports:
+        - "3306:3306"
+      environment:
+        - MYSQL_ROOT_PASSWORD=root
+        - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+        - MYSQL_DATABASE=demo_sh
+
+
+    hatstall:
+      image: grimoirelab/hatstall:latest
+      environment:
+        - DATABASE_DIR=/db/
+        - ADMIN_USER=admin
+        - ADMIN_PASS=admin
+      ports:
+        - 8000:80
+      links:
+        - mariadb
+      volumes:
+        - ../default-grimoirelab-settings/apache-hatstall.conf:/home/grimoirelab/apache-hatstall.conf
+        - ../default-grimoirelab-settings/shdb.cfg:/home/grimoirelab/shdb.cfg
+
