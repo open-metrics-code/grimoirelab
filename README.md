@@ -18,7 +18,7 @@ to analyze git activity for this repository. Given such set up, there are severa
 
 ## Using `docker-compose`
 
-Requirements: 
+Requirements:
 * **Software**: [git](https://git-scm.com/), [docker client](https://docs.docker.com/install/) and [docker compose](https://docs.docker.com/compose/install/). An example of working configuration:
 ```console
 root@test-68b8628f:~# git --version
@@ -84,7 +84,6 @@ Currently, GrimoireLab toolkit is organized in the following repositories:
     * [Perceval (bundle for OPNFV)](https://github.com/chaoss/grimoirelab-perceval-opnfv)
     * [Perceval (bundle for Mozilla)](https://github.com/chaoss/grimoirelab-perceval-mozilla)
     * [Perceval (bundle for Puppet)](https://github.com/chaoss/grimoirelab-perceval-puppet)
-    * [Perceval (bundle for FINOS)](https://github.com/Bitergia/grimoirelab-perceval-finos)
     * [Perceval (bundle for Weblate)](https://github.com/chaoss/grimoirelab-perceval-weblate)
   * [Graal](https://github.com/chaoss/grimoirelab-graal): source data analysis with external tools
   * [KingArthur](https://github.com/chaoss/grimoirelab-kingarthur): batch processing for massive retrieval
@@ -133,6 +132,13 @@ deployments. See more information in the [docker README.md file](docker/README.m
 folder includes instrucctions and configuration files to deploy GrimoireLab using
 `docker-compose` command.
 
+* Source code of the GrimoireLab components is available in `src`. Each directory is a
+Git submodule, so its contents will not be available after cloning the repository. To
+fetch all the data, and get the latest version, you can run the following command:
+```console
+$ git submodule update --init --remote
+```
+
 * How releases of GrimoireLab are built and tested: [Building](BUILDING.md)
 
 ## Citation
@@ -158,3 +164,7 @@ BibTeX / BibLaTeX:
   doi = 	 {10.7717/peerj-cs.601},
   url = 	 {https://doi.org/10.7717/peerj-cs.601}}
 ```
+
+# Contributing
+
+Contributions are welcome, please check the [Contributing Guidelines](CONTRIBUTING.md).

@@ -1,0 +1,42 @@
+[submodule "src/grimoirelab-elk"]
+	path = src/grimoirelab-elk
+	url = https://github.com/chaoss/grimoirelab-elk.git
+[submodule "src/grimoirelab-sortinghat"]
+	path = src/grimoirelab-sortinghat
+	url = https://github.com/chaoss/grimoirelab-sortinghat.git
+[submodule "src/grimoirelab-sigils"]
+	path = src/grimoirelab-sigils
+	url = https://github.com/chaoss/grimoirelab-sigils.git
+[submodule "src/grimoirelab-perceval"]
+	path = src/grimoirelab-perceval
+	url = https://github.com/chaoss/grimoirelab-perceval.git
+[submodule "src/grimoirelab-cereslib"]
+	path = src/grimoirelab-cereslib
+	url = https://github.com/chaoss/grimoirelab-cereslib.git
+[submodule "src/grimoirelab-graal"]
+	path = src/grimoirelab-graal
+	url = https://github.com/chaoss/grimoirelab-graal.git
+[submodule "src/grimoirelab-sirmordred"]
+	path = src/grimoirelab-sirmordred
+	url = https://github.com/chaoss/grimoirelab-sirmordred.git
+[submodule "src/grimoirelab-perceval-mozilla"]
+	path = src/grimoirelab-perceval-mozilla
+	url = https://github.com/chaoss/grimoirelab-perceval-mozilla.git
+[submodule "src/grimoirelab-perceval-weblate"]
+	path = src/grimoirelab-perceval-weblate
+	url = https://github.com/chaoss/grimoirelab-perceval-weblate.git
+[submodule "src/grimoirelab-perceval-puppet"]
+	path = src/grimoirelab-perceval-puppet
+	url = https://github.com/chaoss/grimoirelab-perceval-puppet.git
+[submodule "src/grimoirelab-perceval-opnfv"]
+	path = src/grimoirelab-perceval-opnfv
+	url = https://github.com/chaoss/grimoirelab-perceval-opnfv.git
+[submodule "src/grimoirelab-kingarthur"]
+	path = src/grimoirelab-kingarthur
+	url = https://github.com/chaoss/grimoirelab-kingarthur.git
+[submodule "src/grimoirelab-kidash"]
+	path = src/grimoirelab-kidash
+	url = https://github.com/chaoss/grimoirelab-kidash.git
+[submodule "src/grimoirelab-toolkit"]
+	path = src/grimoirelab-toolkit
+	url = https://github.com/chaoss/grimoirelab-toolkit.git

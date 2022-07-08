@@ -1,0 +1,61 @@
+[tool.poetry]
+name = "grimoirelab"
+version = "0.4.0"
+description = "Tool set for software development analytics"
+authors = [
+    "GrimoireLab Developers"
+]
+license = "GPL-3.0+"
+
+readme = "README.md"
+
+homepage = "https://chaoss.github.io/grimoirelab/"
+repository = "https://github.com/chaoss/grimoirelab"
+
+keywords = [
+    "development",
+    "grimoirelab"
+]
+
+packages = [
+    { include = "grimoirelab" }
+]
+
+classifiers = [
+   "Development Status :: 5 - Production/Stable",
+   "Intended Audience :: Developers",
+   "Topic :: Software Development",
+   "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+   "Programming Language :: Python :: 3"
+]
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/chaoss/grimoirelab/issues"
+
+[tool.poetry.scripts]
+'grimoirelab' = 'grimoirelab.grimoirelab:main'
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+grimoirelab-toolkit = ">=0.3"
+perceval-mozilla = ">=0.3"
+perceval-opnfv = ">=0.2"
+perceval-puppet = ">=0.2"
+perceval-weblate = ">=0.2"
+kingarthur = ">=0.2"
+sortinghat = ">=0.7"
+kidash = ">=0.5"
+grimoirelab-panels = ">=0.1"
+grimoire-elk = ">=0.102"
+sirmordred = ">=0.3"
+cereslib = ">=0.3"
+graal = ">=0.3"
+statsmodels = "^0.13.2"
+perceval = ">=0.19"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
