@@ -63,6 +63,12 @@
                 "is_top": true
             }
         ],
+        "Aalto University": [
+            {
+                "domain": "aalto.fi",
+                "is_top": true
+            }
+        ],
         "A10": [
             {
                 "domain": "a10networks.com",
@@ -520,6 +526,12 @@
         "Anachron BV": [
             {
                 "domain": "anachron.com",
+                "is_top": true
+            }
+        ],
+        "Antmicro": [
+            {
+                "domain": "antmicro.com",
                 "is_top": true
             }
         ],
@@ -993,6 +1005,12 @@
                 "is_top": true
             }
         ],
+        "BDTi": [
+            {
+                "domain": "bdti.com",
+                "is_top": true
+            }
+        ],
         "Beamly": [
             {
                 "domain": "beamly.com",
@@ -1295,6 +1313,12 @@
                 "is_top": true
             }
         ],
+        "Brown University": [
+            {
+                "domain": "brown.edu",
+                "is_top": true
+            }
+        ],
         "Brightcove Inc": [],
         "Brinkster": [
             {
@@ -1385,7 +1409,7 @@
                 "domain": "cbsinteractive.com",
                 "is_top": true
             }
-        ],
+        ],       
         "CC Computer Consultants": [
             {
                 "domain": "computergmbh.de",
@@ -1410,6 +1434,18 @@
                 "is_top": true
             }
         ],
+        "Cerebras": [
+            {
+                "domain": "cerebras.net",
+                "is_top": true
+            }
+        ],
+        "CEVA DSP": [
+            {
+                "domain": "ceva-dsp.com",
+                "is_top": true
+            }
+        ],
         "CEA": [
             {
                 "domain": "cea.fr",
@@ -1419,6 +1455,12 @@
         "CERN": [
             {
                 "domain": "cern.ch",
+                "is_top": true
+            }
+        ],
+        "Chongqing University": [
+            {
+                "domain": "cqu.edu.cn",
                 "is_top": true
             }
         ],
@@ -1443,6 +1485,12 @@
         "Codespeaks": [
             {
                 "domain": "codespeaks.com",
+                "is_top": true
+            }
+        ],
+        "Cornell University": [
+            {
+                "domain": "cornell.edu",
                 "is_top": true
             }
         ],
@@ -2225,6 +2273,12 @@
                 "is_top": true
             }
         ],
+        "Cruise": [
+            {
+                "domain": "getcruise.com",
+                "is_top": true
+            }
+        ],
         "Creative Product Design": [
             {
                 "domain": "cpdesign.com.au",
@@ -2368,6 +2422,12 @@
         "DENX Software Engineering": [
             {
                 "domain": "denx.de",
+                "is_top": true
+            }
+        ],
+        "DFKI": [
+            {
+                "domain": "dfki.de",
                 "is_top": true
             }
         ],
@@ -2638,6 +2698,12 @@
         "Douban": [
             {
                 "domain": "douban.com",
+                "is_top": true
+            }
+        ],
+        "Dresden University of Technology": [
+            {
+                "domain": "tu-dresden.de",
                 "is_top": true
             }
         ],
@@ -3661,11 +3727,21 @@
             {
                 "domain": "google.com",
                 "is_top": true
+            },
+            {
+                "domain": "tensorflow.org",
+                "is_top": true
             }
         ],
         "Gorilla Logic": [
             {
                 "domain": "gorillalogic.com",
+                "is_top": true
+            }
+        ],
+        "Graphcore": [
+            {
+                "domain": "graphcore.ai",
                 "is_top": true
             }
         ],
@@ -3843,6 +3919,12 @@
                 "is_top": true
             }
         ],
+        "Habana": [
+            {
+                "domain": "habana.ai",
+                "is_top": true
+            }
+        ],
         "Happiest Minds Technologies": [
             {
                 "domain": "happiestminds.com",
@@ -3958,6 +4040,30 @@
         "Huawei": [
             {
                 "domain": "huawei.com",
+                "is_top": true
+            },
+            {
+                "domain": "huawei.com]",
+                "is_top": true
+            },
+            {
+                "domain": "huawei.com”",
+                "is_top": true
+            },
+            {
+                "domain": "7huawei.com",
+                "is_top": true
+            },
+            {
+                "domain": "hauwei.com",
+                "is_top": true
+            },
+            {
+                "domain": "h-partners.com",
+                "is_top": true
+            },
+            {
+                "domain": "hisilicon.com",
                 "is_top": true
             }
         ],
@@ -4223,6 +4329,18 @@
         "InHand Electronics": [
             {
                 "domain": "inhand.com",
+                "is_top": true
+            }
+        ],
+        "Indian Institute of Science": [
+            {
+                "domain": "iisc.ac.in",
+                "is_top": true
+            }
+        ],
+        "Intelligent Software Research Center": [
+            {
+                "domain": "isrc.iscas.ac.cn",
                 "is_top": true
             }
         ],
@@ -4499,6 +4617,12 @@
                 "is_top": true
             }
         ],
+        "Jina AI": [
+            {
+                "domain": "jina.ai",
+                "is_top": true
+            }
+        ],
         "Jive Software": [
             {
                 "domain": "jivesoftware.com",
@@ -4510,7 +4634,13 @@
                 "domain": "jhu.edu",
                 "is_top": true
             }
-        ],
+        ],       
+        "Jonathan DEKHTIAR": [
+            {
+                "domain": "jonathandekhtiar.eu",
+                "is_top": true
+            }
+        ],       
         "Jotron Phontech": [
             {
                 "domain": "jotron.com",
@@ -4705,6 +4835,12 @@
                 "is_top": true
             }
         ],
+        "Lanzhou University": [
+            {
+                "domain": "lzu.edu.cn",
+                "is_top": true
+            }
+        ],
         "L&T Infotech": [
             {
                 "domain": "lntinfotech.com",
@@ -4822,6 +4958,12 @@
         "Letv": [
             {
                 "domain": "letv.com",
+                "is_top": true
+            }
+        ],
+        "Lenovo": [
+            {
+                "domain": "Lenovo.com",
                 "is_top": true
             }
         ],
@@ -5649,6 +5791,12 @@
                 "is_top": true
             }
         ],
+        "Nankai University": [
+            {
+                "domain": "mail.nankai.edu.cn",
+                "is_top": true
+            }
+        ],
         "NEC": [
             {
                 "domain": "az.jp.nec.com",
@@ -5708,6 +5856,18 @@
         "NIIF Institute": [
             {
                 "domain": "niif.hu",
+                "is_top": true
+            }
+        ],
+        "Ningbo University": [
+            {
+                "domain": "nbu.edu.cn",
+                "is_top": true
+            }
+        ],
+        "Nicolas Hug": [
+            {
+                "domain": "nicolas-hug.com",
                 "is_top": true
             }
         ],
@@ -5876,6 +6036,12 @@
         "Neotion": [
             {
                 "domain": "neotion.com",
+                "is_top": true
+            }
+        ],
+        "New York University": [
+            {
+                "domain": "nyu.edu",
                 "is_top": true
             }
         ],
@@ -6341,6 +6507,12 @@
                 "is_top": true
             }
         ],
+        "Oculus": [
+            {
+                "domain": "oculus.com",
+                "is_top": true
+            }
+        ],
         "Octant Informatique": [
             {
                 "domain": "octant-fr.com",
@@ -6741,6 +6913,12 @@
                 "is_top": true
             }
         ],
+        "Pengcheng Laboratory": [
+            {
+                "domain": "pcl.ac.cn",
+                "is_top": true
+            }
+        ],
         "Peking University Microprocessor R&D Center": [
             {
                 "domain": "mprc.pku.edu.cn",
@@ -6845,6 +7023,12 @@
                 "is_top": true
             }
         ],
+        "PingCAP": [
+            {
+                "domain": "pingcap.com",
+                "is_top": true
+            }
+        ],
         "Plan Group": [
             {
                 "domain": "plan-group.com",
@@ -6875,6 +7059,18 @@
                 "is_top": true
             }
         ],
+        "Politecnico di Milano": [
+            {
+                "domain": "mail.polimi.it",
+                "is_top": true
+            }
+        ],
+        "Posteo": [
+            {
+                "domain": "posteo.de",
+                "is_top": true
+            }
+        ],
         "PolyBeacon, Inc.": [
             {
                 "domain": "polybeacon.com",
@@ -6884,6 +7080,12 @@
         "Polycom": [
             {
                 "domain": "polycom.com",
+                "is_top": true
+            }
+        ],
+        "Preferred Networks": [
+            {
+                "domain": "preferred.jp",
                 "is_top": true
             }
         ],
@@ -7108,6 +7310,12 @@
         "Quobyte": [
             {
                 "domain": "quobyte.com",
+                "is_top": true
+            }
+        ],
+        "Quansight": [
+            {
+                "domain": "quansight.com",
                 "is_top": true
             }
         ],
@@ -7892,6 +8100,12 @@
                 "is_top": true
             }
         ],
+        "Shawn Zhong": [
+            {
+                "domain": "shawnzhong.com",
+                "is_top": true
+            }
+        ],
         "Shiny Srl": [
             {
                 "domain": "shiny.it",
@@ -7917,6 +8131,12 @@
         "Siano Mobile Silicon": [
             {
                 "domain": "siano-ms.com",
+                "is_top": true
+            }
+        ],
+        "Sichuan University": [
+            {
+                "domain": "stu.scu.edu.cn",
                 "is_top": true
             }
         ],
@@ -7989,20 +8209,6 @@
         "Simtec Electronics": [
             {
                 "domain": "simtec.co.uk",
-                "is_top": true
-            }
-        ],
-        "Sina Corporation": [
-            {
-                "domain": "sina.cn",
-                "is_top": true
-            },
-            {
-                "domain": "sina.com",
-                "is_top": true
-            },
-            {
-                "domain": "sina.com.cn",
                 "is_top": true
             }
         ],
@@ -8441,6 +8647,12 @@
                 "is_top": true
             }
         ],
+        "Sun Yat-sen University": [
+            {
+                "domain": "mail2.sysu.edu.cn",
+                "is_top": true
+            }
+        ],
         "SunGard": [
             {
                 "domain": "sungard.com",
@@ -8753,11 +8965,7 @@
         ],
         "Tencent": [
             {
-                "domain": "qq.com",
-                "is_top": true
-            },
-            {
-                "domain": "vip.qq.com",
+                "domain": "tencent.com",
                 "is_top": true
             }
         ],
@@ -8907,6 +9115,12 @@
         "TomTom": [
             {
                 "domain": "tomtom.com",
+                "is_top": true
+            }
+        ],
+        "Top Bug Net": [
+            {
+                "domain": "topbug.net",
                 "is_top": true
             }
         ],
@@ -9178,6 +9392,24 @@
                 "is_top": true
             }
         ],
+        "University of Electronic Science and Technology of China": [
+            {
+                "domain": "std.uestc.edu.cn",
+                "is_top": true
+            }
+        ],
+        "Berkeley University of California": [
+            {
+                "domain": "berkeley.edu",
+                "is_top": true
+            }
+        ],
+        "University of Science and Technology of China": [
+            {
+                "domain": "mail.ustc.edu.cn",
+                "is_top": true
+            }
+        ],
         "Unilogic Networks B.V.": [
             {
                 "domain": "unilogicnetworks.net",
@@ -9193,6 +9425,12 @@
         "Unisys": [
             {
                 "domain": "unisys.com",
+                "is_top": true
+            }
+        ],
+        "University of Texas at Austin": [
+            {
+                "domain": "utexas.edu",
                 "is_top": true
             }
         ],
@@ -9963,6 +10201,10 @@
             {
                 "domain": "xtech.com.ar",
                 "is_top": true
+            },
+            {
+                "domain": "xtech.com",
+                "is_top": true
             }
         ],
         "Xelerated, Inc.": [
@@ -9992,6 +10234,22 @@
         "Xilinx, Inc.": [
             {
                 "domain": "xilinx.com",
+                "is_top": true
+            }
+        ],
+        "Xi’an Jiaotong University": [
+            {
+                "domain": "stu.xjtu.edu.cn",
+                "is_top": true
+            }
+        ],
+        "Xidian University": [
+            {
+                "domain": "mail.xidian.edu.cn",
+                "is_top": true
+            },
+            {
+                "domain": "stu.xidian.edu.cn",
                 "is_top": true
             }
         ],
@@ -10117,6 +10375,12 @@
                 "is_top": true
             }
         ],
+        "Zafar Takhirov": [
+            {
+                "domain": "zafar.cc",
+                "is_top": true
+            }
+        ],
         "Zane Benefits, Inc.": [
             {
                 "domain": "zanebenefits.com",
@@ -10141,9 +10405,21 @@
                 "is_top": true
             }
         ],
+        "Zhejiang University": [
+            {
+                "domain": "zju.edu.cn",
+                "is_top": true
+            }
+        ],
         "Zilogic Systems": [
             {
                 "domain": "zilogic.com",
+                "is_top": true
+            }
+        ],
+        "Zinkov": [
+            {
+                "domain": "zinkov.com",
                 "is_top": true
             }
         ],
@@ -10162,6 +10438,12 @@
         "Zonbu": [
             {
                 "domain": "zonbu.com",
+                "is_top": true
+            }
+        ],
+        "ZTE": [
+            {
+                "domain": "zte.com.cn",
                 "is_top": true
             }
         ],
@@ -10616,6 +10898,328 @@
         "\u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne": [
             {
                 "domain": "epfl.ch",
+                "is_top": true
+            }
+        ],
+        "Peking University": [
+            {
+                "domain": "pku.edu.cn",
+                "is_top": true
+            }
+        ],
+        "Beijing Institute of Technology": [
+            {
+                "domain": "bit.edu.cn",
+                "is_top": true
+            }
+        ],
+        "Beijing Jiaotong University": [
+            {
+                "domain": "bjtu.edu.cn",
+                "is_top": true
+            }
+        ],
+        "Wuhan University": [
+            {
+                "domain": "whu.edu.cn",
+                "is_top": true
+            }
+        ],
+        "Beijing University of Posts and Telecommunications": [
+            {
+                "domain": "bupt.edu.cn",
+                "is_top": true
+            }
+        ],
+        "Tsinghua University": [
+            {
+                "domain": "mail.tsinghua.edu.cn",
+                "is_top": true
+            }
+        ],
+        "Shanghai Jiao Tong University": [
+            {
+                "domain": "sjtu.edu.cn",
+                "is_top": true
+            }
+        ],
+        "Boston University": [
+            {
+                "domain": "bu.edu",
+                "is_top": true
+            }
+        ],
+        "Xi'an Jiaotong University": [
+            {
+                "domain": "tiaozhan.com",
+                "is_top": true
+            }
+        ],
+        "Cambrian": [
+            {
+                "domain": "cambricon.com",
+                "is_top": true
+            }
+        ],
+        "Legato Health Technologies": [
+            {
+                "domain": "legatohealth.com",
+                "is_top": true
+            }
+        ],
+        "PolyMage Labs": [
+            {
+                "domain": "polymagelabs.com",
+                "is_top": true
+            }
+        ],
+        "Netaji Subhash Engineering College": [
+            {
+                "domain": "nsec.ac.in",
+                "is_top": true
+            }
+        ],
+        "sparkfun": [
+            {
+                "domain": "sparkfun.com",
+                "is_top": true
+            }
+        ],
+        "Himax Technologies": [
+            {
+                "domain": "himax.com.tw",
+                "is_top": true
+            }
+        ],
+        "bytedance": [
+            {
+                "domain": "bytedance.com",
+                "is_top": true
+            },
+            {
+                "domain": "BYTEDANCE.COM",
+                "is_top": true
+            }
+        ],
+        "MAXAR": [
+            {
+                "domain": "maxar.com",
+                "is_top": true
+            }
+        ],
+        "infineon": [
+            {
+                "domain": "infineon.com",
+                "is_top": true
+            }
+        ],
+        "Cal Poly": [
+            {
+                "domain": "calpoly.edu",
+                "is_top": true
+            }
+        ],
+        "espressif": [
+            {
+                "domain": "espressif.com",
+                "is_top": true
+            }
+        ],
+        "Illinois": [
+            {
+                "domain": "illinois.edu",
+                "is_top": true
+            }
+        ],
+        "Noble.AI": [
+            {
+                "domain": "noble.ai",
+                "is_top": true
+            }
+        ],
+        "XMOS": [
+            {
+                "domain": "xmos.com",
+                "is_top": true
+            }
+        ],
+        "Edge Impulse": [
+            {
+                "domain": "edgeimpulse.com",
+                "is_top": true
+            }
+        ],
+        "SensiML": [
+            {
+                "domain": "sensiml.com",
+                "is_top": true
+            }
+        ],
+        "Ravelin": [
+            {
+                "domain": "ravelin.com",
+                "is_top": true
+            }
+        ],
+        "Brainscode": [
+            {
+                "domain": "brainscode.com",
+                "is_top": true
+            }
+        ],
+        "University of Victoria": [
+            {
+                "domain": "uvic.ca",
+                "is_top": true
+            }
+        ],
+        "Eyedea Recognition": [
+            {
+                "domain": "eyedea.cz",
+                "is_top": true
+            }
+        ],
+        "University of Southampton": [
+            {
+                "domain": "soton.ac.uk",
+                "is_top": true
+            }
+        ],
+        "Stylight": [
+            {
+                "domain": "stylight.com",
+                "is_top": true
+            }
+        ],
+        "Artec 3D": [
+            {
+                "domain": "artec-group.com",
+                "is_top": true
+            }
+        ],
+        "Criteo": [
+            {
+                "domain": "criteo.com",
+                "is_top": true
+            }
+        ],
+        "Fizyr": [
+            {
+                "domain": "fizyr.com",
+                "is_top": true
+            }
+        ],
+        "Hi Auto": [
+            {
+                "domain": "hi.auto",
+                "is_top": true
+            }
+        ],
+        "Insoundz": [
+            {
+                "domain": "insoundz.com",
+                "is_top": true
+            }
+        ],
+        "Peritiae": [
+            {
+                "domain": "peritiae.it",
+                "is_top": true
+            }
+        ],
+        "University of Aveiro": [
+            {
+                "domain": "ua.pt",
+                "is_top": true
+            }
+        ],
+        "Universidad Complutense de Madrid": [
+            {
+                "domain": "ucm.es",
+                "is_top": true
+            }
+        ],
+        "Electrical and Electronics Engineering InstituteUniversity of the Philippines": [
+            {
+                "domain": "eee.upd.edu.ph",
+                "is_top": true
+            }
+        ],
+        "ESI: Accueil": [
+            {
+                "domain": "esi.dz",
+                "is_top": true
+            }
+        ],
+        "Georgia Tech": [
+            {
+                "domain": "gatech.edu",
+                "is_top": true
+            }
+        ],
+        "Lambda": [
+            {
+                "domain": "lambdal.com",
+                "is_top": true
+            }
+        ],
+        "Recogni": [
+            {
+                "domain": "recogni.com",
+                "is_top": true
+            }
+        ],
+        "Reveal Technology": [
+            {
+                "domain": "revealtech.ai",
+                "is_top": true
+            }
+        ],
+        "TCL": [
+            {
+                "domain": "tcl.com",
+                "is_top": true
+            }
+        ],
+        "Western University": [
+            {
+                "domain": "uwo.ca",
+                "is_top": true
+            }
+        ],
+        "Berkeley University Of California": [
+            {
+                "domain": "berkeley.edu",
+                "is_top": true
+            }
+        ],
+        "Butterfly Network": [
+            {
+                "domain": "butterflynetinc.com",
+                "is_top": true
+            }
+        ],
+        "Departamento de Ciência da Computação da UFMG": [
+            {
+                "domain": "dcc.ufmg.br",
+                "is_top": true
+            }
+        ],
+        "Dropbox": [
+            {
+                "domain": "dropbox.com",
+                "is_top": true
+            }
+        ],
+        "Illuminate": [
+            {
+                "domain": "goilluminate.com",
+                "is_top": true
+            }
+        ],
+        "Hello": [
+            {
+                "domain": "hello.com",
                 "is_top": true
             }
         ]

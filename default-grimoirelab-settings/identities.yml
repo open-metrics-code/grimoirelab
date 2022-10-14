@@ -37,3 +37,10 @@
     - owl_capone@bitergia.com
   github:
     - owl_capone
+
+- profile:
+    name: i-robot
+  enrollments:
+    - organization: Huawei
+  email:
+    - huawei_ci_bot@163.com
