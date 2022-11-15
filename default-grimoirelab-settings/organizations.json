@@ -4065,6 +4065,38 @@
             {
                 "domain": "hisilicon.com",
                 "is_top": true
+            },
+            {
+                "domain": "ohos.com.cn",
+                "is_top": true
+            },
+            {
+                "domain": "huawei-partners.com",
+                "is_top": true
+            },
+            {
+                "domain": "huawe.com",
+                "is_top": true
+            },
+            {
+                "domain": "notesmail.huawei.com",
+                "is_top": true
+            },
+            {
+                "domain": "华huaweii.com",
+                "is_top": true
+            },
+            {
+                "domain": "china.huawei.com",
+                "is_top": true
+            },
+            {
+                "domain": "hhuawei.com",
+                "is_top": true
+            },
+            {
+                "domain": "huawei",
+                "is_top": true
             }
         ],
         "HubSpot": [
@@ -11220,6 +11252,170 @@
         "Hello": [
             {
                 "domain": "hello.com",
+                "is_top": true
+            }
+        ],
+        "KaiHong": [
+            {
+                "domain": "kaihongdigi.com",
+                "is_top": true
+            },
+            {
+                "domain": "kaihong.com",
+                "is_top": true
+            }
+        ],
+        "HOPERUN": [
+            {
+                "domain": "hoperun.com",
+                "is_top": true
+            }
+        ],
+        "ISoftStone": [
+            {
+                "domain": "isoftstone.com",
+                "is_top": true
+            }
+        ],
+        "ThunderSoft": [
+            {
+                "domain": "thundersoft.com",
+                "is_top": true
+            }
+        ],
+        "ISCAS": [
+            {
+                "domain": "iscas.ac.cn",
+                "is_top": true
+            }
+        ],
+        "ICS&S": [
+            {
+                "domain": "chinasoftinc.com",
+                "is_top": true
+            },
+            {
+                "domain": "chinasofti.com",
+                "is_top": true
+            }
+        ],
+        "Midea": [
+            {
+                "domain": "midea.com",
+                "is_top": true
+            }
+        ],
+        "Neusoft": [
+            {
+                "domain": "neusoft.com",
+                "is_top": true
+            }
+        ],
+        "KOTEI": [
+            {
+                "domain": "kotei-info.com",
+                "is_top": true
+            }
+        ],
+        "Talkweb": [
+            {
+                "domain": "talkweb.com.cn",
+                "is_top": true
+            }
+        ],
+        "Bestechnic": [
+            {
+                "domain": "bestechnic.com",
+                "is_top": true
+            }
+        ],
+        "HOLD": [
+            {
+                "domain": "holdiot.com",
+                "is_top": true
+            }
+        ],
+        "Southeast University": [
+            {
+                "domain": "seu.edu.cn",
+                "is_top": true
+            }
+        ],
+        "UNIONMAN": [
+            {
+                "domain": "unionman.com.cn",
+                "is_top": true
+            }
+        ],
+        "Telink": [
+            {
+                "domain": "telink-semi.com",
+                "is_top": true
+            }
+        ],
+        "NUCLEI": [
+            {
+                "domain": "nucleisys.com",
+                "is_top": true
+            }
+        ],
+        "CHIPSEA": [
+            {
+                "domain": "chipsea.com",
+                "is_top": true
+            }
+        ],
+        "SUPER RED": [
+            {
+                "domain": "superred.com.cn",
+                "is_top": true
+            }
+        ],
+        "ARCHERMIND": [
+            {
+                "domain": "archermind.com",
+                "is_top": true
+            }
+        ],
+        "Kika Tech": [
+            {
+                "domain": "archermind.com",
+                "is_top": true
+            }
+        ],
+        "UBTECH": [
+            {
+                "domain": "ub-tech.cn",
+                "is_top": true
+            }
+        ],
+        "Antiy": [
+            {
+                "domain": "antiy.cn",
+                "is_top": true
+            }
+        ],
+        "GOODIX": [
+            {
+                "domain": "goodix.com",
+                "is_top": true
+            }
+        ],
+        "ASR": [
+            {
+                "domain": "asrmicro.com",
+                "is_top": true
+            }
+        ],
+        "BILLJC": [
+            {
+                "domain": "billjc.com",
+                "is_top": true
+            }
+        ],
+        "Digital China": [
+            {
+                "domain": "digitalchina.com",
                 "is_top": true
             }
         ]
