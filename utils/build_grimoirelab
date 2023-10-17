@@ -38,7 +38,8 @@ Example:
 
 """
 
-build_dependencies = ['pip', 'setuptools', 'pypandoc', 'twine', 'wheel']
+# build_dependencies = ['pip', 'setuptools', 'pypandoc', 'twine', 'wheel']
+build_dependencies = ['pip', 'setuptools', 'pandoc', 'twine', 'wheel']
 install_dependencies = ['pip', 'setuptools', 'wheel']
 
 all_repos = {
@@ -74,10 +75,14 @@ all_repos = {
             'repo_url': 'http://github.com/chaoss/grimoirelab-kingarthur',
             'version_file': os.path.join('arthur', '_version.py'),
             'check_run': 'arthurd --help'}],
+    # 'grimoireelk': [{'name': 'grimoire-elk', 'dir': '',
+    #         'repo_url': 'http://github.com/chaoss/grimoirelab-elk',
+    #         'version_file': os.path.join('grimoire_elk', '_version.py'),
+    #         'check_run': 'p2o.py --help'}],
     'grimoireelk': [{'name': 'grimoire-elk', 'dir': '',
             'repo_url': 'http://github.com/chaoss/grimoirelab-elk',
-            'version_file': os.path.join('grimoire_elk', '_version.py'),
-            'check_run': 'p2o.py --help'}],
+            'version_file': os.path.join('grimoire_elk', '_version.py')
+            }],
     'sortinghat': [{'name': 'sortinghat', 'dir': '',
             'repo_url': 'http://github.com/chaoss/grimoirelab-sortinghat',
             'version_file': os.path.join('sortinghat', '_version.py'),
