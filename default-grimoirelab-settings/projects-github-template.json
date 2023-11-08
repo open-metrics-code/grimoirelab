@@ -1,0 +1,13 @@
+{
+    "github-{community-name}": {
+        "git": ["https://github.com/{owner}/{repo}.git"],        
+        "github:issue": ["https://github.com/{owner}/{repo}"],        
+        "github:pull": ["https://github.com/{owner}/{repo}"],        
+        "github:repo": ["https://github.com/{owner}/{repo}"],        
+        "github2:issue": ["https://github.com/{owner}/{repo}"],        
+        "github2:pull": ["https://github.com/{owner}/{repo}"],        
+        "githubql:stargazer": ["https://github.com/{owner}/{repo}"],        
+        "githubql:fork": ["https://github.com/{owner}/{repo}"],        
+        "githubql:event": ["https://github.com/{owner}/{repo}"]     
+    }
+}

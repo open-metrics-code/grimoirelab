@@ -1,0 +1,14 @@
+{
+    "gitee-{community-name}": {
+        "git": ["https://gitee.com/{owner}/{repo}.git"],        
+        "gitee:issue": ["https://gitee.com/{owner}/{repo}"],        
+        "gitee:pull": ["https://gitee.com/{owner}/{repo}"],        
+        "gitee:repo": ["https://gitee.com/{owner}/{repo}"],        
+        "gitee2:issue": ["https://gitee.com/{owner}/{repo}"],        
+        "gitee2:pull": ["https://gitee.com/{owner}/{repo}"],        
+        "gitee:stargazer": ["https://gitee.com/{owner}/{repo}"],        
+        "gitee:fork": ["https://gitee.com/{owner}/{repo}"],        
+        "gitee:watch": ["https://gitee.com/{owner}/{repo}"],        
+        "gitee:event": ["https://gitee.com/{owner}/{repo}"]     
+    }
+}
