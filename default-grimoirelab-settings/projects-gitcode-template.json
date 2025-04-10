@@ -1,0 +1,14 @@
+{
+    "gitcode-{community-name}": {
+        "git": ["https://gitcode.com/{owner}/{repo}.git"],        
+        "gitcode:issue": ["https://gitcode.com/{owner}/{repo}"],        
+        "gitcode:pull": ["https://gitcode.com/{owner}/{repo}"],        
+        "gitcode:repo": ["https://gitcode.com/{owner}/{repo}"],        
+        "gitcode2:issue": ["https://gitcode.com/{owner}/{repo}"],        
+        "gitcode2:pull": ["https://gitcode.com/{owner}/{repo}"],        
+        "gitcode:stargazer": ["https://gitcode.com/{owner}/{repo}"],        
+        "gitcode:fork": ["https://gitcode.com/{owner}/{repo}"],        
+        "gitcode:watch": ["https://gitcode.com/{owner}/{repo}"],        
+        "gitcode:event": ["https://gitcode.com/{owner}/{repo}"]     
+    }
+}
