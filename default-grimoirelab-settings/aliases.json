@@ -259,6 +259,82 @@
       }
     ]
   },
+  "gitcode": {
+    "raw": [
+      {
+        "alias": "gitcode-raw"
+      }
+    ],
+    "enrich": [
+      {
+        "alias": "gitcode_issues"
+      },
+      {
+        "alias": "gitcode_issues_enrich"
+      },
+      {
+        "alias": "issues_closed"
+      },
+      {
+        "alias": "issues_created"
+      },
+      {
+        "alias": "issues_updated"
+      },
+      {
+        "alias": "affiliations"
+      },
+      {
+        "alias": "all_enriched"
+      },
+      {
+        "alias": "all_enriched_tickets",
+        "filter": {
+          "terms": {
+            "pull_request": [
+              "false"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "gitcode:pull": {
+    "raw": [
+      {
+        "alias": "gitcode_prs-raw"
+      }
+    ],
+    "enrich": [
+      {
+        "alias": "gitcode_prs"
+      },
+      {
+        "alias": "gitcode-prs_enriched"
+      },
+      {
+        "alias": "affiliations"
+      },
+      {
+        "alias": "all_enriched"
+      },
+      {
+        "alias": "all_enriched_tickets"
+      }
+    ]
+  },
+  "gitcode:repo": {
+    "raw": [
+      {
+        "alias": "gitcode_repositories-raw"
+      }
+    ],
+    "enrich": [
+      {
+        "alias": "gitcode_repositories"
+      }
+    ]
+  },
   "github:repo": {
     "raw": [
       {
@@ -879,6 +955,26 @@
       },
       {
         "alias": "all_enriched"
+      }
+    ]
+  },
+  "studies_aliases": {
+    "enrich": [
+      {
+        "alias": "all_onion",
+        "name": "enrich_onion"
+      },
+      {
+        "alias": "demographics",
+        "name": "enrich_demography"
+      },
+      {
+        "alias": "demographics_contribution",
+        "name": "enrich_demography_contribution"
+      },
+      {
+        "alias": "git_areas_of_code",
+        "name": "enrich_areas_of_code"
       }
     ]
   }
